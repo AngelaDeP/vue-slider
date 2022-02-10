@@ -37,6 +37,10 @@
     color: white;
 }
 
+.active {
+    display: block;
+}
+
 .thumbs {
     height: 300px;
     background: #000;
